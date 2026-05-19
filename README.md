@@ -46,25 +46,30 @@
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-### 📌 Term Deposit Subscription Prediction
-- Built ML classification models using Random Forest & XGBoost
-- Performed EDA, feature engineering & hyperparameter tuning
-- Achieved **86% accuracy**
+### 🏦 Term Deposit Subscription Prediction
+Built an end-to-end machine learning classification model using Python, Pandas, NumPy, Scikit-learn, and XGBoost to predict bank term deposit subscriptions. Performed EDA, feature engineering, one-hot encoding, hyperparameter tuning with GridSearchCV, and achieved 86% accuracy using Cross-Validation.
 
-### 📌 Big Mart Sales Prediction
-- Analyzed sales trends & customer behavior
-- Applied feature engineering & predictive modeling
-- Achieved best results using Random Forest
+---
 
-### 📌 Sales Dashboard using Excel
-- Created interactive dashboard using Pivot Charts & Slicers
-- Generated KPIs & business insights
+### 🛒 Big Mart Sales Prediction
+Developed a retail sales prediction model using Random Forest and performed data cleaning, preprocessing, feature engineering, and exploratory data analysis. Visualized sales trends and feature importance using Matplotlib and Seaborn to generate business insights.
 
-### 📌 TATA Steel L-Tec Scarfing Machine Optimization
-- Performed Root Cause Analysis (RCA)
-- Reduced maintenance frequency using data-driven analysis
+---
+
+### 📊 Sales Dashboard using Excel
+Created an interactive Excel dashboard using Pivot Tables, Pivot Charts, slicers, and KPI analysis. Conducted data cleaning and transformation to identify sales trends, patterns, and business performance insights.
+
+---
+
+### 🏭 TATA Steel L-Tec Scarfing Machine Optimization
+Performed Root Cause Analysis (RCA) and optimized vertical and horizontal closing issues in the L-Tec scarfing machine at Tata Steel. Used data-driven analysis to reduce downtime and maintenance frequency.
+
+---
+
+### 🤖 Data Analytics & Machine Learning Projects
+Worked on multiple analytics and ML projects involving predictive modeling, feature engineering, data visualization, statistical analysis, and business insights using Python, SQL, Power BI, and Excel.
 
 ---
 
