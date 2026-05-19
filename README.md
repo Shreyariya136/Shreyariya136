@@ -91,4 +91,6 @@ Worked on multiple analytics and ML projects involving predictive modeling, feat
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Aishwar1)
 
-📧 Email: shreyariya189@email.com
+📧 Email: sraj093.btech2023@me.nitrr.ac.in 
+           shreyariya189@gmail.com
+
