@@ -21,11 +21,11 @@
 
 ## 🏆 Achievements
 
-- 📌 Secured **96.61 percentile** in JEE Mains
-- 📌 Deloitte Data Analytics Virtual Experience (Forage)
 - 📌 Academic Excellence Award Recipient
+- 📌 Deloitte Data Analytics Virtual Experience (Forage)
 - 📌 Content Writer at Allessay.net
 - 📌 Worked on real-world ML & analytics projects
+- 📌 Secured **96.61 percentile** in JEE Mains
 
 ---
 
