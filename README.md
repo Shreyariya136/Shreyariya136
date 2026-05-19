@@ -86,10 +86,9 @@ Worked on multiple analytics and ML projects involving predictive modeling, feat
 ---
 
 ## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreya-raj-492229313)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Aishwar1)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shreyariya136))
 
 📧 Email: sraj093.btech2023@me.nitrr.ac.in 
            shreyariya189@gmail.com
