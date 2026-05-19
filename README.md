@@ -55,6 +55,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shreyariya136))
 
-📧 Email: sraj093.btech2023@me.nitrr.ac.in 
+📧 Email: sraj093.btech2023@me.nitrr.ac.in//
            shreyariya189@gmail.com
 
